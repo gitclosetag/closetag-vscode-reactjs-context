@@ -1,0 +1,11 @@
+{
+  "name": "contextjs-snippet",
+  "version": "1.0.0",
+  "description": "A Snippet for VSCode which creates a ReactJS ContextAPI Component with useContext hook, Provider component and error logs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luiz Esper",
+  "license": "ISC"
+}
