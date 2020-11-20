@@ -2,9 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://rocketseat.com.br">
-    <img src="https://avatars2.githubusercontent.com/u/74619796?s=400&u=5ff5ddeab53867ee50498f1067baaea09b21c0f0&v=4" alt="Logo">
-  </a>
+    <img src="https://avatars2.githubusercontent.com/u/74619796?s=400&u=5ff5ddeab53867ee50498f1067baaea09b21c0f0&v=4" alt="Logo" width="250">
   <h3 align="center">ReactJS Context Snippet</h3>
 </p>
 
